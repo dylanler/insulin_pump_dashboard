@@ -40,11 +40,11 @@ This is the first version of the project - V1.0
 
 ## Authors
 
-* Aung Tun, Sirikalaya Siripattarakul, Rajesh Movva, Dylan Ler and Yue Pan
+* Aung Tun, Sirikalaya Siripattarakul, Rajesh Movva, Dylan Ler and Yue Pan.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
