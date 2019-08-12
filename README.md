@@ -10,10 +10,6 @@ Inside the folder "Dashboard-WebApp-Code" click open index.html to launch the in
 
 Require a working browser preferably Chrome.
 
-```
-Give examples
-```
-
 ### Installing
 
 No installation required as it is a static web application page.
@@ -21,7 +17,6 @@ No installation required as it is a static web application page.
 ```
 Open index.html in browser to see example
 ```
-
 
 ## Built With
 
